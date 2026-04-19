@@ -1,0 +1,14 @@
+# Minimal Python environment to reproduce script/fig1.ipynb
+# Note: exact figure typography also depends on having Times New Roman
+# installed on the local system. The notebook falls back to DejaVu Serif.
+
+numpy==1.22.3
+pandas==1.4.2
+pyarrow==8.0.0
+scipy==1.8.0
+matplotlib==3.5.2
+seaborn==0.13.0
+scikit-learn==1.1.0
+statsmodels==0.13.2
+notebook==6.4.11
+ipykernel==6.13.0
